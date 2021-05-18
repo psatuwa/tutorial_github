@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name RFM9X)(type KiCad)(uri ${KIPRJMOD}/kicad-RFM9X/RFM9X.pretty)(options "")(descr ""))
+  (lib (name ant-916-chp-t)(type KiCad)(uri ${KIPRJMOD}/ANT-916-CHP-T/ant-916-chp-t.pretty)(options "")(descr ""))
+)
